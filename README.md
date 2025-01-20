@@ -1,6 +1,6 @@
 # Yulu Bike Sharing Hypothesis Testing
 
-![Yulu Banner](https://upload.wikimedia.org/wikipedia/commons/7/7c/Yulu_Bike.jpg)
+![Yulu Banner](https://cdn.bikedekho.com/upload/newsimages/300X520/cover_6450b34e63c5d-300X520.png)
 
 ## Introduction
 Yulu, a leading micro-mobility service provider, seeks to analyze the factors influencing the demand for shared electric cycles. This project uses statistical hypothesis testing and exploratory data analysis to provide actionable insights for demand forecasting and strategic planning.
@@ -50,7 +50,7 @@ The dataset contains the following features:
   ```
 - Clone this repository:
   ```bash
-  git clone [https://github.com/ShreyashDarade/Business-CaseStudy-Yulu-Hypothesis-Testing.git]
+  git clone https://github.com/username/yulu-hypothesis-testing.git
   ```
 
 ### Step 2: Data Preprocessing and EDA
@@ -148,16 +148,11 @@ The dataset contains the following features:
 ---
 
 ## Contributors
-- **Your Name**: Data Analyst and Developer.
+- **Shreyash Darade**: Data Analyst and Developer.
 
 Feel free to contribute by submitting a pull request or suggesting improvements!
 
 ---
 
-## License
-This project is licensed under the MIT License.
-
----
-
 ## Contact
-For queries or feedback, reach out at: [email@example.com](mailto:email@example.com).
+For queries or feedback, reach out at: [shreyashdarade555@gmail.com](mailto:shreyashdarade555@gmail.com).
